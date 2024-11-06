@@ -1,0 +1,1 @@
+This repository contains a project on Big Mart Sales Prediction developed to analyze and predict sales data for Big Mart stores. Using machine learning techniques, this project aims to create a model that accurately forecasts sales based on historical data and various product and store attributes. The analysis and model-building are documented in the provided Jupyter Notebook.
